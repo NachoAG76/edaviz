@@ -1,2 +1,2 @@
 # edaviz
-Exploratory Data Analysis and Vizualisation
+Exploratory Data Analysis and Visualization
