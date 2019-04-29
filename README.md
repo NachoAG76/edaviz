@@ -1,7 +1,7 @@
 # edaviz
 edaviz - Python library for Exploratory Data Analysis and Visualization in Jupyter Notebook or Jupyter Lab
 
-> Beta Version: edaviz is currently in active beta development and we update the library weekly. If you find an error, please report it to us.
+> Alpha Version: edaviz is currently in active alpha development and we update the library weekly. If you find an error, please report it to us.
 
 - [Installation](#Installation)
 - [Usage](#Usage)
@@ -9,7 +9,7 @@ edaviz - Python library for Exploratory Data Analysis and Visualization in Jupyt
 
 # Installation
 
-Currently, we are in private beta testing mode. You will receive the initial `pip install` command directly from us when you have been chosen for early access.
+Currently, we are in private alpha testing mode. You will receive the initial `pip install` command directly from us when you have been chosen for early access.
 
 ## After the pip install:
 In addition, you need to activate extensions for Jupyter Lab or Jupyter Notebook:
