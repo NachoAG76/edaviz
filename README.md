@@ -1,6 +1,6 @@
 # edaviz
 
-## Python Library for Data Exploration and Visualization in Jupyter Notebook and Jupyter Lab
+Python Library for Data Exploration and Visualization in Jupyter Notebook and Jupyter Lab
 
 ### See edaviz in action in the [demo video](https://youtu.be/eYEeYv11YrQ).
 
