@@ -7,7 +7,7 @@ Python Library for Data Exploration and Visualization in Jupyter Notebook and Ju
 ### If you like edaviz, you can [subscribe to our waiting list](http://eepurl.com/go6Zlj) in order to get early access.
 
 
-If you already have early access, you can find the documentation [here](https://github.com/tkrabel/edaviz/blob/master/documentation).
+If you already have early access, you can find the documentation [here](https://github.com/tkrabel/edaviz/blob/master/docs).
 
 # Showcase gallery
 
