@@ -24,7 +24,9 @@ However, the path to understanding your data is paved with numerous tedious task
 
 ## The Solution
 
-**edaviz** is a Python library which helps you to quickly understand and visualize your data frames. It is most helpful during data exploration after you received a new data set. However, you can also use it during data cleaning and data transformation, during feature engineering, or during model evaluation - whenever you need to understand your data.		
+**edaviz** is a Python library which helps you to quickly understand and visualize your data frames. It is most helpful during data exploration after you received a new data set. However, you can also use it during data cleaning and data transformation, during feature engineering, or during model evaluation - whenever you need to understand your data.
+
+Watch the [demo video](https://youtu.be/eYEeYv11YrQ)
 		
 ## The Features		
 
@@ -32,7 +34,9 @@ However, the path to understanding your data is paved with numerous tedious task
 - High interactivity and data drill down	
 - Finds the best features for predicting your target	
 - Explores predictive patterns between columns	
-- Automatically chooses visualizations based on data types..
+- Automatically chooses visualizations based on data types
+
+Watch the [demo video](https://youtu.be/eYEeYv11YrQ)
   
 ## Contact
 
