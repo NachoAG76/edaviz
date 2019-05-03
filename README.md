@@ -1,4 +1,4 @@
-# edaviz
+# eda[viz](https://youtu.be/eYEeYv11YrQ)
 
 Python Library for Data Exploration and Visualization in Jupyter Notebook and Jupyter Lab
 
