@@ -35,5 +35,5 @@ Understanding data involves tedious work. You need to perform a lot of different
   
 ## Contact
 
-If you have questions or want to contribute, you can contact us via opening a [GitHub issue](https://github.com/tkrabel/edaviz/issues) or on [twitter](https://twitter.com/edavizpy).
+If you have questions or want to contribute, you can contact us via opening a [GitHub issue](https://github.com/tkrabel/edaviz/issues) or texting us on [twitter](https://twitter.com/edavizpy).
 
