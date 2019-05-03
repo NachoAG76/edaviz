@@ -19,7 +19,8 @@ If you already have early access, you can find the documentation [here](https://
 
 80% of the effort in Data Science projects is due to data understanding, transformation, and cleaning.
 And of course, it all starts with data exploration. If you don't understand the data set, you cannot work with it.
-Understanding data involves tedious work. You need to perform a lot of different analyses, handle the messy data and drill deeper, as there is always something odd in the data.
+
+However, the path to understanding your data is paved with numerous tedious tasks. You need to investigate the distribution of your columns, explore missing values, and check whether there are some useful patterns in your data. In most cases, we need to be cautious with our data, as there are always odd suprises to be found.
 
 ## The Solution
 
