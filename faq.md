@@ -1,6 +1,8 @@
 ## Is the idea to make edaviz open source at some point?
 
-I (Florian) am afraid, there is **no short answer** to this because I struggled with this question myself for a long time. I hope you are fine with me sharing the **full story** with you:
+*Note: This question was asked on reddit. Florian, who developed edaviz during his Master Thesis, answered the question the following way.* 
+
+I am afraid, there is **no short answer** to this because I struggled with this question myself for a long time. I hope you are fine with me sharing the **full story** with you:
 
 When I started my Master Thesis, my primary goal was to make Data Science in Python faster. While writing the thesis, I always asked myself: "how can I create the biggest benefit for the community that already gave me so much?" In the beginning, my answer was to open-source the package after the Master Thesis.
 
