@@ -1,6 +1,6 @@
 ## Is the idea to make edaviz open source at some point?
 
-I (Florian) am afraid, there is no short answer to this because I struggled with this question myself for a long time. I hope you are fine with me sharing the full story with you:
+I (Florian) am afraid, there is **no short answer** to this because I struggled with this question myself for a long time. I hope you are fine with me sharing the **full story** with you:
 
 When I started my Master Thesis, my primary goal was to make Data Science in Python faster. While writing the thesis, I always asked myself: "how can I create the biggest benefit for the community that already gave me so much?" In the beginning, my answer was to open-source the package after the Master Thesis.
 
@@ -18,12 +18,13 @@ We are not sure yet what our business model will look like, but our basic notion
 - If the library helps you to earn money, then you should share a small portion of the money.
 
 For the reasons above, the code is currently not open-source but we are looking for feedback and will give you free access to our alpha version.
-If you want access to the alpha version and test it on your own projects (both commercial or noncommercial), please write me via the chat or join our waiting list. http://eepurl.com/go6Zlj
+**If you want access to the alpha version** and test it on your own projects (both commercial or non-commercial), please write me via the chat or **join our waiting list**. http://eepurl.com/go6Zlj
 
 With much love,
 Tobi and Florian
 
 PS: We know that open-sourcing is a sensitive topic but our intentions are good and we try hard to provide value for the Python community :)
+
 PPS: What do think about the struggle we have mentioned? Do you think it is the right approach? How would you go about this, if you were in our situation?
 
 
