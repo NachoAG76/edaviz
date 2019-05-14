@@ -1,6 +1,6 @@
 # Before you read the docs
 
-We implemented edaviz in a way so that it is as user-friendly as possible. The best way to learn the api is to call `eda.overview(df)` and click through the tabs. For each module, we display the code that produced the output. Simply copy-paste the code into another Jupyter cell if you want to lay around with the function.
+We implemented edaviz in a way so that it is as user-friendly as possible. The best way to learn the api is to call `eda.overview(df)` and click through the tabs. For each module, we display the code that produced the output. Simply copy-paste the code into another Jupyter cell if you want to play around with the functions.
 
 ## edaviz.overview(df, target=None)
 
