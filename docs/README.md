@@ -1,7 +1,7 @@
 # edaviz
 edaviz - Python library for Exploratory Data Analysis and Visualization in Jupyter Notebook or Jupyter Lab
 
-> Alpha Version: edaviz is currently in active alpha development and we update the library weekly. If you find an error, please report it to us.
+> Private Access: edaviz is currently in private access development and we update the library every two weeks. If you find an error, please report it to us via mail or a GitHub issue.
 
 - [Installation](#Installation)
 - [Usage](#Usage)
@@ -9,10 +9,12 @@ edaviz - Python library for Exploratory Data Analysis and Visualization in Jupyt
 
 # Installation
 
-Currently, we are in private alpha testing mode. You will receive the initial `pip install` command directly from us when you have been chosen for early access.
+Currently, we are in private access mode. You will receive the initial `pip install` command directly from us when you have been chosen for early access.
 
 ## After the pip install:
-In addition, you need to activate extensions for Jupyter Lab or Jupyter Notebook:
+In addition, you need to activate the extensions for Jupyter Notebook or Jupyter Lab.
+
+If you want to use edaviz on both Jupyter Notebook and Lab, then you need to perform the steps for both platforms because the extensions are installed separately on the platforms.
 
 ### if you use Jupyter Notebook
 
@@ -29,9 +31,9 @@ jupyter nbextension enable --py qgrid
 
 ```
 jupyter labextension install @jupyter-widgets/jupyterlab-manager --no-build
-jupyter labextension install plotlywidget@0.8.0 --no-build
-jupyter labextension install @jupyterlab/plotly-extension@0.18.2 --no-build
-jupyter labextension install jupyterlab-chart-editor@1.0 --no-build
+jupyter labextension install plotlywidget --no-build
+jupyter labextension install @jupyterlab/plotly-extension --no-build
+jupyter labextension install jupyterlab-chart-editor --no-build
 jupyter labextension install qgrid --no-build
 jupyter lab build
 ```
@@ -50,7 +52,7 @@ import edaviz as eda
 df = eda.get_titanic_df()  # sample pandas dataframe
 eda.overview(df)
 ```
-> Info: currently, edaviz only works within Jupyter Notebook or Jupyter Lab. You cannot use it on other platforms, e.g. via the command line or in PyCharm etc
+> Info: edaviz only works within Jupyter Notebook or Jupyter Lab. Currently, you cannot use it on other platforms, e.g. via the command line or in PyCharm etc
 
 # API
 
